@@ -1,5 +1,6 @@
 {
   "description": "A React utility belt for function components and higher-order components",
+  "version": "0.30.0",
   "keywords": [
     "react",
     "higher-order",
